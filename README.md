@@ -1,4 +1,3 @@
-# TTS-AND-VOICE_CLONING▶︎ 🗣️•၊၊||၊|။||||။‌‌‌‌‌၊|• 0:10
 # Voice Cloning TTS with Mel Spectrogram Visualization 🎧
 
 <div align="center">
